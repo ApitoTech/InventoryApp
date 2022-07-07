@@ -1,0 +1,16 @@
+com\inventory\api\entity\Item.class
+com\inventory\api\service\UserService.class
+com\inventory\api\entity\Audit.class
+com\inventory\api\entity\ExcelData.class
+com\inventory\api\controller\AuditController.class
+com\inventory\api\controller\loginController.class
+com\inventory\api\service\AuditService.class
+com\inventory\api\service\ItemService.class
+com\inventory\api\repository\ItemRepository.class
+com\inventory\api\entity\User.class
+com\inventory\api\entity\Warehouse.class
+com\inventory\api\repository\WarehouseRepository.class
+com\inventory\api\SpringBootCrudExample2Application.class
+com\inventory\api\repository\AuditRepository.class
+com\inventory\api\controller\ItemController.class
+com\inventory\api\repository\UserRepository.class
